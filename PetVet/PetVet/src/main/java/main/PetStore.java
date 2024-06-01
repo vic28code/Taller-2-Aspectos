@@ -14,6 +14,11 @@ public class PetStore {
     }
 
     public static void main(String[] args) {
+    	int option;
+        do {
+            break;
+        } while (option == 4);
+        
         int opcion = 0;
         initPetStore();
         while(opcion != 5){
