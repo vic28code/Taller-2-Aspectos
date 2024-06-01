@@ -11,3 +11,6 @@ Taller grupal aspectos diseño de software
 
 # Captura Paul Alcivar:
 ![Captura de Pantalla Paul](images/Paul.png)
+
+# Captura Jose Marin:
+![Captura de Pantalla Marin](images/Marin.png)
